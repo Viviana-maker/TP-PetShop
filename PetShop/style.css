@@ -1,0 +1,30 @@
+header{height: 62px;
+width: 1024px;
+font-size: 10px;
+line-height: 12px;
+padding-left: 3rem;
+}
+
+.header_abajo{
+    color: white;
+}
+
+main section .banner{
+    width: 1025px;
+    height: 409px;
+    left: calc(50% - 1025px/2 + 0.5px);
+    top: 81px;
+}
+
+main section div h2{
+    color: #3c2313;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    position: absolute;
+    font-size: 30px;
+    width: 365px;
+    height: 54px;
+    left: 648px;
+    top: 237px;
+    text-align: center;
+}
